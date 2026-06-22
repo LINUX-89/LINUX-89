@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy Uriel 👋</h1>
-<h3 align="center">Desarrollador Web Jr. · Ciberseguridad en camino 🛡️</h3>
+<h3 align="center">Desarrollador Web Jr.</h3>
 
 <p align="center">
   <a href="https://github.com/LINUX-89">
